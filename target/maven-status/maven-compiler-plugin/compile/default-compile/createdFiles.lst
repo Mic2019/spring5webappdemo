@@ -1,0 +1,8 @@
+guru\springframework\spring5webapp\model\Publisher.class
+guru\springframework\spring5webapp\repositories\AuthorRepository.class
+guru\springframework\spring5webapp\model\Book.class
+guru\springframework\spring5webapp\repositories\PublisherRepository.class
+guru\springframework\spring5webapp\bootstrap\DevBootStrap.class
+guru\springframework\spring5webapp\repositories\BookRepository.class
+guru\springframework\spring5webapp\Spring5webappApplication.class
+guru\springframework\spring5webapp\model\Author.class
